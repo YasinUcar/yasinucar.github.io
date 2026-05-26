@@ -1,0 +1,82 @@
+@import "minima";
+
+/* Dark mode variables and overrides (loaded after minima to override defaults) */
+:root {
+	--site-bg: #ffffff;
+	--site-text: #111517;
+	--site-link: #1e6bb8;
+	--site-header-bg: #ffffff;
+	--site-muted: #6a737d;
+	--code-bg: #eef;
+	--invert-svg: 0;
+}
+
+/* Respect user's OS preference by default */
+@media (prefers-color-scheme: dark) {
+	:root {
+		--site-bg: #0d1117; /* GitHub dark */
+		--site-text: #c9d1d9;
+		--site-link: #58a6ff;
+		--site-header-bg: #0b1117;
+		--site-muted: #8b949e;
+		--code-bg: #0b1117;
+		--invert-svg: 1;
+	}
+}
+
+/* Explicit dark theme when `.dark` is present on <html> */
+
+:root[data-theme="dark"] {
+	--site-bg: #0d1117;
+	--site-text: #c9d1d9;
+	--site-link: #58a6ff;
+	--site-header-bg: #0b1117;
+	--site-muted: #8b949e;
+	--code-bg: #0b1117;
+	--invert-svg: 1;
+}
+
+/* Explicit light override when user forces light mode */
+:root[data-theme="light"] {
+	--site-bg: #ffffff;
+	--site-text: #111517;
+	--site-link: #1e6bb8;
+	--site-header-bg: #ffffff;
+	--site-muted: #6a737d;
+	--code-bg: #eef;
+	--invert-svg: 0;
+}
+
+/* Apply variables to common elements to override compiled minima values */
+body {
+	background-color: var(--site-bg) !important;
+	color: var(--site-text) !important;
+	transition: background-color 200ms linear, color 200ms linear;
+}
+
+a { color: var(--site-link) !important; }
+
+.site-header {
+	background-color: var(--site-header-bg) !important;
+}
+
+/* Muted text */
+.svg-icon, .site-footer, blockquote, figcaption, table { color: var(--site-muted) !important; }
+
+pre, code {
+	background-color: var(--code-bg) !important;
+}
+
+/* Toggle button styles */
+.theme-toggle {
+	background: transparent;
+	border: 0;
+	color: var(--site-text);
+	cursor: pointer;
+	font-size: 1.05rem;
+	padding: 6px 8px;
+}
+
+/* Small UX for icon inversion when using SVG icons that assume dark fill */
+img, svg { filter: unquote("invert(var(--invert-svg)) hue-rotate(0deg)"); }
+
