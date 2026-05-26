@@ -7,12 +7,13 @@ description: > # this means to ignore newlines until "twitter_username:"
 # social links
 # twitter_username: 
 github_username:  YasinUcar
+linkedin_username: yasin-ucar
 # rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
- linkedin_username: yasin-ucar
+ 
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
