@@ -3,6 +3,15 @@ layout: post
 title: "Linux'un Ücretsiz Olduğu Halde Yayılamaması"
 date: 2026-08-17 20:36 +0300
 ---
+
+Ufak bir düzetlme : Buradaki yazının ana mesajı Linux'un başarısız bir işletim sistemi olması veya kullanılmaması değil normal bir masaüstü kullanıcısı tabanında hala sınırlı bir kullanıma sahip olmasıdır.
+
+Bunun Linux'un genel başarısını veya teknoloji dünyasındaki etkisini küçülttüğü düşünülmemeli. Linux; sunuculardan Android'e, bulut altyapılarından oyun konsollarına ve gömülü sistemlere kadar teknolojinin pek çok alanında son derece önemli bir rol oynuyor. Dolayısıyla mesele **“Linux başarısız mı?”** değil, **“Linux neden masaüstünde diğer işletim sistemleri kadar yaygın değil?”** sorusudur.
+
+Bu ayrımı yapmak önemli; çünkü Linux'un masaüstündeki sınırlı kullanım oranı ile teknoloji dünyasındaki etkisi birbirinden tamamen farklı şeylerdir.
+
+*(15 Eylül 2026)*
+
 İlk sorun, satın alınan cihazların çoğunlukla Windows yüklü olarak gelmesi. Basit bir kullanıcı için bu durumu değiştirmek oldukça anlamsız görünüyor; çünkü halihazırda çalışan bir sistemi değiştirmek için bir nedenleri yok. Ayrıca bu, Windows’un pazardaki ezici üstünlüğünü daha da pekiştiriyor.
 
 Linux’ta donanım uyumluluğu ciddi bir sıkıntı. Örneğin, bir fare alıp Windows’ta takar takmaz çalıştırabiliyorsunuz; gerekli yazılım otomatik yükleniyor ve işinizi kolayca hallediyorsunuz. Ancak Linux’ta, aynı fareyi kullanabilmek için alternatif bir yazılım aramak zorundasınız (fare, klavye vb. için yazılıma ihtiyaç duyma konusu; Razer, Logitech vb. ürünlerin RGB, DPI ve makroları) ve şanslıysanız benzer fonksiyonlara sahip bir program buluyorsunuz. Daha kritik bir örnek ise Wi-Fi sürücüleri. Linux’ta sürücüler genelde çekirdeğe gömülü olarak geliyor, ancak üretici desteği olmadığı için Windows’taki gibi sorunsuz bir performans alamıyorsunuz. Bağlantı kopmaları ya da düşük hız gibi problemlerle karşılaşmak olası.
