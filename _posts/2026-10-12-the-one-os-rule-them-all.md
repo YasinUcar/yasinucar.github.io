@@ -14,7 +14,7 @@ O dönem hem Windows XP hem de Windows 98 kurulu bilgisayarlarla haşır neşir 
 
 Bence XP, Microsoft için bir mihenk taşıydı ve öyle olmaya da devam ediyor. XP'nin temel aldığı NT mimarisi, Windows'un sonraki sürümlerinde de devam etti. XP, Windows 98'den sonra Windows açısından büyük bir görsel sıçrama olarak kabul edilebilir. Kendine has ikonik masaüstü resmi, arama işlevinde karşımıza çıkan köpek (neden böyle bir köpek var, hiç bilmiyorum :D) .
 
-![rover-microsoft.gif](/assets/images/rover-microsoft.gif)
+<center>![rover-microsoft.gif](/assets/images/rover-microsoft.gif)</center>
 
 Teknolojik açıdan pek çok işletim sistemi XP'den daha iyi, daha hızlı veya daha güvenli olabilir. Fakat nostaljik sebeplerden dolayı XP, benim için gelmiş geçmiş ve sanırım gelecek :) en iyi işletim sistemi olarak kalacak.
 
@@ -66,7 +66,7 @@ Birincisi, bir dizüstü bilgisayar ekstra bir mouse'a, klavyeye vb. ihtiyaç du
 
 Özellikle eskiden dizüstü bilgisayar kullanıcıları kendilerini laptoplarının yanında bir mouse, hatta klavye bile taşırken bulabiliyordu. Bu durumda dizüstü bilgisayarınızın kasa ve monitör dışında taşınabilir bir mini PC'den pek farkı kalmıyor. Oysa bir dizüstü bilgisayar, özünde kompakt hâlde kullanılmak üzere tasarlanmış, bütünleşik bir yapıya sahip olmalı.
 
-[PC-setup.avif](/assets/images/PC-setup.avif)
+[PC-setup.avif](/assets/images/PC-setup.jpg)
 
 Bununla birlikte, bence burada yalnızca donanımdan değil, işletim sisteminin ekranı ve kullanıcı etkileşimini nasıl ele aldığından da bahsetmek gerekiyor.
 
@@ -134,7 +134,7 @@ Android tarafına bakarsak Google'ın farklı cihazlara özel deneyimler tasarla
 
 Daha önce ChromeOS ve Chromebook'larla bu yaklaşımın bir örneğini gördük. Google'ın yeni Googlebook OS yaklaşımı da Android ve ChromeOS teknolojilerini bir araya getirerek bu fikri farklı bir noktaya taşıyor.
 
-[Googlebook-laptop.avif](/assets/images/Googlebook-laptop.avif)
+[Googlebook-laptop.avif](/assets/images/Googlebook-laptop.jpg)
 
 Benim burada başarılı bulduğum şey, bir işletim sistemini alıp yalnızca farklı ekran boyutlarına uyarlamak yerine, cihazın kullanım biçimine göre ayrı bir deneyim tasarlamaya çalışmak.
 
