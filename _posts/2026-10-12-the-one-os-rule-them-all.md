@@ -4,8 +4,6 @@ title: 'The One OS to Rule Them All?'
 date: 2026-10-12 20:54 +0300
 ---
 
-![intro](/assets/images/Teknolojinin%20Biricik%20İşletim%20Sistemi.png)
-
 Ben bir Windows çocuğuyum. Bilgisayar kullanmaya babamın CRT monitörlü bilgisayarlarında başladım. Winamp üzerinden kaset doldurduğumuz, Nero ile CD yazdırdığımız o dönemlerden bu yana pek çok işletim sistemi denedim. Fakat işletim sistemleri hakkındaki düşüncelerim, yalnızca teknik özelliklere bakarak değil, bilgisayarları ne için kullandığımı sorguladıkça değişti.
 
 Bunlar babamın kendi iş bilgisayarlarıydı. Genel olarak Winamp üzerinden kaset doldurur ya da Nero ile CD yazdırırdık (müşterinin isteğine göre :) ). Ben de boş kalan yaz vakitlerimde bol miktarda Pinball oynar ya da Oyunlar1 ve Kraloyun'da takılırdım.
