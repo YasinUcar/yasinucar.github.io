@@ -14,7 +14,7 @@ O dönem hem Windows XP hem de Windows 98 kurulu bilgisayarlarla haşır neşir 
 
 Bence XP, Microsoft için bir mihenk taşıydı ve öyle olmaya da devam ediyor. XP'nin temel aldığı NT mimarisi, Windows'un sonraki sürümlerinde de devam etti. XP, Windows 98'den sonra Windows açısından büyük bir görsel sıçrama olarak kabul edilebilir. Kendine has ikonik masaüstü resmi, arama işlevinde karşımıza çıkan köpek (neden böyle bir köpek var, hiç bilmiyorum :D) .
 
-<center> ![rover-microsoft.gif](/assets/images/rover-microsoft.gif) </center>
+![rover-microsoft.gif](/assets/images/rover-microsoft.gif)
 
 Teknolojik açıdan pek çok işletim sistemi XP'den daha iyi, daha hızlı veya daha güvenli olabilir. Fakat nostaljik sebeplerden dolayı XP, benim için gelmiş geçmiş ve sanırım gelecek :) en iyi işletim sistemi olarak kalacak.
 
